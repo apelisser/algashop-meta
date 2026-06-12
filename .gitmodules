@@ -18,3 +18,7 @@
 	path = template
 	url = git@github.com:apelisser/algashop-template.git
 	branch = main
+[submodule "microservices/billing-scheduler"]
+	path = microservices/billing-scheduler
+	url = git@github.com:apelisser/algashop-billing-scheduler.git
+	branch = main
